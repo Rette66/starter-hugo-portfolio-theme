@@ -28,10 +28,10 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
+    - name: Game Development
+      tag: GD
+    - name: Database System
+      tag: DBS
     - name: NLP
       tag: NLP
 
